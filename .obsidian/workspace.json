@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "a3a7bc9dbc669a3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b12d20b3de6468a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6a0c10943627453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Lecture Notes/Week 1 - Introduction to databases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1 - Introduction to databases"
+            }
+          },
+          {
+            "id": "cf9adf5842613fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Online Course Notes/1 - What is a database?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - What is a database?"
+            }
+          },
+          {
+            "id": "cc368e49240cc019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Online Course Notes/1 - What is a database?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - What is a database?"
+            }
+          },
+          {
+            "id": "7ef50c9c728a1da6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming in Java/Week 8 - The life cycle of an object.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 8 - The life cycle of an object"
+            }
+          },
+          {
+            "id": "f1c062205cf37194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming in Java/Week 7 - Object Oriented Programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 7 - Object Oriented Programming"
+            }
+          },
+          {
+            "id": "e1dad54073794316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming in Java/Week 3 - Variables, types and arrays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 3 - Variables, types and arrays"
+            }
+          },
+          {
+            "id": "0c51fddd462514e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming in Java/Week 4 - Conditions and Loops.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 4 - Conditions and Loops"
+            }
+          },
+          {
+            "id": "75d4a4fcb6c07d3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming in Java/Week 3 - Variables, types and arrays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 3 - Variables, types and arrays"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cc171ab5c90d173",
+    "type": "split",
+    "children": [
+      {
+        "id": "54df722cb4b3ba3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f112b509fe4b962",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "915ab2055a3d1ac9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "950305ae231f072a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5
+  },
+  "right": {
+    "id": "9c94cb98915d201d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4c38280cb570779",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7815c1d3643e87b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Databases/Online Course Notes/5 - Inserting Data.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 5 - Inserting Data"
+            }
+          },
+          {
+            "id": "915037311de00419",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Databases/Online Course Notes/5 - Inserting Data.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 5 - Inserting Data"
+            }
+          },
+          {
+            "id": "535afbb24715836e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "80daa36d25a03f81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Databases/Online Course Notes/5 - Inserting Data.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 5 - Inserting Data"
+            }
+          },
+          {
+            "id": "dcc08ec19196dace",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "75d4a4fcb6c07d3a",
+  "lastOpenFiles": [
+    "Programming in Java/Week 4 - Conditions and Loops.md",
+    "Programming in Java/Week 5 - Methods and Recursion.md",
+    "Programming in Java/Week 3 - Variables, types and arrays.md",
+    "Programming in Java/Week 7 - Object Oriented Programming.md",
+    "Programming in Java/Week 10 - Collections.md",
+    "Programming in Java/Week 9 - Immutable Objects.md",
+    "Programming in Java/Week 8 - The life cycle of an object.md",
+    "Databases/Online Course Notes/5 - Inserting Data.md",
+    "Databases/Online Course Notes/4 - Creating Tables.md",
+    "Databases/Online Course Notes/3 - SQL Basics.md",
+    "Databases/Online Course Notes/2 -Tables and Keys.md",
+    "Databases/Online Course Notes/1 - What is a database?.md",
+    "Untitled 1.md",
+    "Databases/Lecture Notes/Week 1 - Introduction to databases.md",
+    "Databases/Online Course Notes",
+    "Databases/Lecture Notes",
+    "Databases",
+    "Programming in Java"
+  ]
+}
