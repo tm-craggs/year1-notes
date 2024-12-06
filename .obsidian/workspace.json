@@ -138,12 +138,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pipelining.md",
+                "file": "Maths/Week 10 - Matricies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pipelining"
+              "title": "Week 10 - Matricies"
             }
           }
         ],
@@ -300,10 +300,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0dd7c3229881bfa",
+  "active": "8f112b509fe4b962",
   "lastOpenFiles": [
-    "Week 10 - Matricies.md",
-    "Pipelining.md",
+    "Maths",
+    "Computer Fundementals/Pipelining.md",
+    "Pasted Images",
+    "Pasted Images/Pasted image 20241206151655.png",
+    "Pasted Images/Pasted image 20241206150639.png",
+    "Maths/Week 10 - Matricies.md",
     "Computer Fundementals",
     "Programming in Java/Week 3 - Variables, types and arrays.md",
     "Programming in Java/Week 4 - Conditions and Loops.md",
