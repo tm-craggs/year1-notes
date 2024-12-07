@@ -150,13 +150,14 @@
             "id": "85dca7af1ad45b1f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "Programming in Java/Week 4 - Conditions and Loops.md",
-                "staged": false
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Week 4 - Conditions and Loops)"
+              "icon": "lucide-file",
+              "title": "Week 4 - Conditions and Loops"
             }
           }
         ],
@@ -315,6 +316,7 @@
   },
   "active": "85dca7af1ad45b1f",
   "lastOpenFiles": [
+    "Programming in Java/Week 5 - Methods and Recursion.md",
     "Programming in Java/Week 4 - Conditions and Loops.md",
     "Programming in Java/Week 9 - Immutable Objects.md",
     "Computer Fundementals/Pipelining.md",
@@ -327,7 +329,6 @@
     "Pasted Images/Pasted image 20241206150639.png",
     "Computer Fundementals",
     "Programming in Java/Week 3 - Variables, types and arrays.md",
-    "Programming in Java/Week 5 - Methods and Recursion.md",
     "Programming in Java/Week 7 - Object Oriented Programming.md",
     "Programming in Java/Week 10 - Collections.md",
     "Programming in Java/Week 8 - The life cycle of an object.md",
