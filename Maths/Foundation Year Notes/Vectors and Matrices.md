@@ -12,4 +12,7 @@ Matrix
 
 - Matrix is like a group of vectors
 - Individual items are called elements or entries
-- 
+- To find the inverse of a matrix, swap the values in a and d, and negate the numbers in b and c
+
+![[Pasted image 20241208121326.png]]
+
