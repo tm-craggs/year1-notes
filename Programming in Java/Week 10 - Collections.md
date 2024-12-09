@@ -16,7 +16,7 @@ When you do an import, you are telling Java to get that folder and bring those c
 Abstraction - Reducing detail
 The abstract keyword - Allows you to create a method with no content, designed as a placeholder. You must place a semi colon after an abstract method and not curly brackets. The same way you cannot have empty standard methods, you cannot have full abstract methods. 
 
-Java Collections Framework
+**Java Collections Framework**
 
 A collections framework is a unified architecture for representing and manipulating collections. 
 
