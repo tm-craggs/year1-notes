@@ -2,5 +2,5 @@ Collection (container) - An object that groups multiple elements into a single u
 
 Collections framework - An architecture for manipulating and representing collections. All collections frameworks contains
 - Interfaces - Abstract datatypes that represent collections. Interface
-- Implementations - Concerte implementations of the collection interfaces.
-- Algorithms - These are methdo
+- Implementations - Concrete implementations of the collection interfaces.
+- Algorithms - These are methdods
