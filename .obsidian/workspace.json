@@ -166,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collections - Revision Notes.md",
+                "file": "Programming in Java/Collections - Revision Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -315,8 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,7 +332,7 @@
   "active": "5c10736cd9d6c59d",
   "lastOpenFiles": [
     "Programming in Java/Week 10 - Collections.md",
-    "Collections - Revision Notes.md",
+    "Programming in Java/Collections - Revision Notes.md",
     "Maths/Foundation Year Notes/Vectors and Matrices.md",
     "Pasted Images/Pasted image 20241208121326.png",
     "Maths/Week 10 - Matricies.md",
