@@ -6,3 +6,4 @@ UNIQUE - This means that the attribute content must be unique from all other tab
 
 DEFAULT - When declaring an attribute, if it is left blank during the table entry, the default attribute will be substituted for NULL. 
 
+AUTO_INCREMENT - You can make an attribute that auto increments for each new entry. You then do not have to add it when making a table entry. This is useful for primary keys. 
