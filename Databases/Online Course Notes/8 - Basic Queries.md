@@ -29,3 +29,7 @@ ORDER BY name;
 
 This will return the names and majors, in alphabetical order by name. 
 DESC can make the list in reverse order. 
+
+ORDER BY can take numerous arguments. ORDER BY course, student_id will sort by course first, then any with the same course will then be order by student_id
+
+LIMIT - Sets a limit on how many rows can be returned
