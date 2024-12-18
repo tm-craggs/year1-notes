@@ -232,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,7 +246,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af13d1d323d2d518",
+  "active": "dcc08ec19196dace",
   "lastOpenFiles": [
     "Databases/Online Course Notes/11 - Functions.md",
     "Databases/Online Course Notes/12 - Wildcards.md",
