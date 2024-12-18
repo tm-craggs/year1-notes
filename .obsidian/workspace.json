@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Online Course Notes/7 - Update and Delete.md",
+                "file": "Databases/Online Course Notes/8 - Basic Queries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 - Update and Delete"
+              "title": "8 - Basic Queries"
             }
           }
         ],
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,10 +191,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dcc08ec19196dace",
+  "active": "606d104b5d709ce6",
   "lastOpenFiles": [
-    "Databases/Online Course Notes/6 - Constraints.md",
     "Databases/Online Course Notes/7 - Update and Delete.md",
+    "Databases/Online Course Notes/8 - Basic Queries.md",
+    "Databases/Online Course Notes/6 - Constraints.md",
     "Databases/Online Course Notes/5 - Inserting Data.md",
     "Week 11 - Graph Theory.md",
     "Programming in Java/Collections - Revision Notes.md",

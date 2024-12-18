@@ -14,3 +14,12 @@ Other comparison ops
 
 Make sure to place the semi colon at the end of the statement
 
+OR can also be used in addition to the WHERE statement
+If there is no WHERE statement, update will affect every entry
+
+**Deletion**
+
+DELETE FROM STUDENT; (would delete all rows from table)
+
+DELETE FROM student
+WHERE student_id = 5; (will delete entry of student ID 5)
