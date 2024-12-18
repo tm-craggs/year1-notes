@@ -12,3 +12,6 @@ FOREIGN KEY(mgr_id) REFERENCES employee(emp_id)
 
 ON DELETE SET NULL - When creating a foreign key this is good practise
 
+When adding to the tables it can be difficult, especially when tables rely on each other for a foreign key and have a circular relationship. 
+
+The first table entry should have foreign keys added as NULL, then when the foreign key table has been created, the NULL values should be updated. 
