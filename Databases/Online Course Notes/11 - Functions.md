@@ -7,3 +7,27 @@ SELECT COUNT(emp_id)
 FROM employee; 
 
 This will count the number of employees in the table, as emp_id is the primary key
+
+AVG - A function which calculates the average
+SUM - Adds up all entries
+
+SELECT SUM(salary)
+FROM employee; 
+Will give you the sum of all salaries 
+
+SELECT AVG(salary)
+FROM employee
+WHERE sex = 'M'
+Will calculate the average male salary
+
+GROUP BY - Can be used when multiple counts are being used, for example
+
+SELECT COUNT(sex), sex
+FROM employee
+GROUP BY sex;
+
+Will return:
+COUNT(sex)  Sex
+7                     M
+8                     F
+
