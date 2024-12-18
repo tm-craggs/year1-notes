@@ -33,3 +33,7 @@ DESC can make the list in reverse order.
 ORDER BY can take numerous arguments. ORDER BY course, student_id will sort by course first, then any with the same course will then be order by student_id
 
 LIMIT - Sets a limit on how many rows can be returned
+IN - You can pass in a list of values
+
+WHERE name IN ('Tom', 'Lee', 'Luca') will return if name is in this list
+
