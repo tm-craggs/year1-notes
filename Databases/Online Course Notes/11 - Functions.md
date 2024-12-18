@@ -20,7 +20,7 @@ FROM employee
 WHERE sex = 'M'
 Will calculate the average male salary
 
-GROUP BY - Can be used when multiple counts are being used, for example
+GROUP BY - Sorts your returns into groups. Aggregation. For example:
 
 SELECT COUNT(sex), sex
 FROM employee
@@ -30,4 +30,5 @@ Will return:
 COUNT(sex)  Sex
 7                     M
 8                     F
+
 
