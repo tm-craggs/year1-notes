@@ -148,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "9c94cb98915d201d",
@@ -246,7 +245,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dcc08ec19196dace",
+  "active": "8f112b509fe4b962",
   "lastOpenFiles": [
     "Databases/Online Course Notes/11 - Functions.md",
     "Databases/Online Course Notes/12 - Wildcards.md",
@@ -256,7 +255,7 @@
     "Databases/Online Course Notes/7 - Update and Delete.md",
     "Databases/Online Course Notes/6 - Constraints.md",
     "Databases/Online Course Notes/5 - Inserting Data.md",
-    "Week 11 - Graph Theory.md",
+    "Maths/Week 11 - Graph Theory.md",
     "Programming in Java/Collections - Revision Notes.md",
     "Programming in Java/Week 10 - Collections.md",
     "Maths/Foundation Year Notes/Vectors and Matrices.md",
